@@ -32,3 +32,4 @@ names(cancer_data)
 # [24] "SEER_cause_specific_death_classification"
 # [25] "SEER_other_cause_of_death_classification"
 
+cancer_data[]
