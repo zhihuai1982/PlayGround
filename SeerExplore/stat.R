@@ -32,4 +32,9 @@ names(cancer_data)
 # [24] "SEER_cause_specific_death_classification"
 # [25] "SEER_other_cause_of_death_classification"
 
-cancer_data[]
+"Pyriform sinus"
+"Postcricoid region; cricopharynx cricoid NOS"
+"Hypopharyngeal aspect of aryepiglottic fold; aryepiglottic fold NOS; arytenoid fold"
+"Posterior wall of hypopharynx"
+"Overlapping lesion of hypopharynx. Use only when a single lesion overlaps subsites of the hypopharynx. Example: A single tumor overlaps C130 postcricoid region and C131 aryepiglottic fold."
+"Hypopharynx NOS and parapharyngeal space. Use only when the subsite/site is unknown"
